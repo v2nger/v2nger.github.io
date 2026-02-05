@@ -1,4 +1,5 @@
-# Plannio
+# Plannio                                                                                                                                                                                  [English version](en.html)
+
 
 **Birlikte planlayın. Karışıklık olmadan.**
 
