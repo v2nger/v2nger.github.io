@@ -1,8 +1,4 @@
 
-# Plannio
-
-**Birlikte planlayın. Karışıklık olmadan.**
-
 Plannio, arkadaşlarınız ve ailenizle yaptığınız buluşmaları daha kolay
 planlamanız için geliştirilmiş bir mobil uygulamadır.
 Ortak listeler oluşturmanızı, kimin ne getirdiğini ve harcamaların
