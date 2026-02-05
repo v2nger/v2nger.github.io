@@ -20,3 +20,6 @@ in a clear and simple way.
 
 🔐 [Privacy Policy](privacy-en.html)  
 📄 [Terms of Service](terms-en.html)
+   [English version](en.html)
+
+
