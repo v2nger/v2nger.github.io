@@ -1,3 +1,5 @@
+<img src="assets/logo.png" alt="Plannio Logo" width="120" />
+
 # Plannio
 
 **Birlikte planlayın. Karışıklık olmadan.**
