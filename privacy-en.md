@@ -112,4 +112,4 @@ on this page and will take effect immediately upon publication.
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-📧 **support@plannio.co**
+📧 **mehmetyalcinozan@gmail.com**
