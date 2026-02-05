@@ -51,4 +51,4 @@ KVKK kapsamında verilerinize erişme, silme ve düzeltme hakkına sahipsiniz.
 
 ## 6. İletişim
 
-📧 support@plannio.co
+📧 *mehmetyalcinozan@gmail.com*
