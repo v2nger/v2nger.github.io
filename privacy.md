@@ -1,3 +1,5 @@
+<img src="assets/logo.png" alt="Plannio Logo" width="120" style="margin-bottom:20px;" />
+
 # Plannio Gizlilik Politikası
 
 _Son güncelleme: 3 Şubat 2026_
