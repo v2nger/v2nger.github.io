@@ -1,3 +1,5 @@
+<img src="assets/logo.png" alt="Plannio Logo" width="120" style="margin-bottom:20px;" />
+
 # Terms of Service
 
 _Last updated: February 3, 2026_
