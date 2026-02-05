@@ -1,4 +1,4 @@
-# Plannio                                                                                                                                                                                  [English version](en.html)
+# Plannio
 
 
 **Birlikte planlayın. Karışıklık olmadan.**
@@ -40,3 +40,5 @@ Her türlü plan için aynı sadeliği sunar.
 
 🔐 [Gizlilik Politikası](privacy.html)  
 📄 [Kullanım Şartları](terms.html)
+[English version](en.html)
+
