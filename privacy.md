@@ -51,4 +51,4 @@ KVKK kapsamında verilerinize erişme, silme ve düzeltme hakkına sahipsiniz.
 
 ## 6. İletişim
 
-📧 *mehmetyalcinozan@gmail.com*
+📧 **mehmetyalcinozan@gmail.com**
