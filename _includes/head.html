@@ -1,0 +1,24 @@
+<style>
+  .page-header {
+    padding-top: 2.5rem;
+  }
+
+  .plannio-logo {
+    display: block;
+    margin: 0 auto 1rem auto;
+    width: 96px;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const header = document.querySelector(".page-header");
+    if (header) {
+      const img = document.createElement("img");
+      img.src = "{{ site.baseurl }}/assets/logo.png";
+      img.alt = "Plannio";
+      img.className = "plannio-logo";
+      header.prepend(img);
+    }
+  });
+</script>
