@@ -61,4 +61,4 @@ laws.
 
 If you have any questions about these Terms of Service, please contact us at:
 
-📧 **support@plannio.co**
+📧 **mehmetyalcinozan@gmail.com**
