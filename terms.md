@@ -15,4 +15,4 @@ Uygulamaya girilen içeriklerden kullanıcı sorumludur.
 Plannio, hizmet üzerinde değişiklik yapma hakkını saklı tutar.
 
 ## İletişim
-mehmetyalcinozan@gmail.com
+📧 **mehmetyalcinozan@gmail.com**
