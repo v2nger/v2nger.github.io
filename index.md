@@ -1,4 +1,3 @@
-<img src="assets/logo.png" alt="Plannio Logo" width="120" style="margin-bottom:20px;" />
 
 # Plannio
 
