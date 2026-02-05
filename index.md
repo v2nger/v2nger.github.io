@@ -1,7 +1,7 @@
 
 Plannio, arkadaşlarınız ve ailenizle yaptığınız buluşmaları daha kolay
 planlamanız için geliştirilmiş bir mobil uygulamadır.
-Ortak listeler oluşturmanızı, kimin ne getirdiğini ve harcamaların
+Ortak listeler oluşturmanızı, kimin ne istediğini ve harcamaların
 nasıl paylaşıldığını net bir şekilde görmenizi sağlar.
 
 ---
@@ -9,7 +9,7 @@ nasıl paylaşıldığını net bir şekilde görmenizi sağlar.
 ## Plannio ne işe yarar?
 
 - Organizasyonlar için ortak listeler oluşturmanızı sağlar  
-- Her öğeyi bir kişiye atayarak karışıklığı önler  
+- Her katılımcının ne istediğini net belirleyerek karışıklığı önler  
 - Tamamlananları işaretleyerek süreci takip etmenizi kolaylaştırır  
 - Harcamaları şeffaf ve anlaşılır hâle getirir  
 
