@@ -29,11 +29,10 @@ aynı sadeliği sunar.
 
 ## Neden Plannio?
 
-- Sade ve öğrenmesi kolay arayüz  
-- Herkesin rahatça kullanabileceği esnek yapı  
-- Gereksiz özellikler yok, sadece işe yarayanlar var  
-
-Plannio, planlamayı zorlaştıran detayları ortadan kaldırmayı amaçlar.
+- Tek kişinin üstüne kalan hesap yükünü ortadan kaldırır  
+- Tartışmayı değil, sonucu gösterir  
+- Herkes aynı hesaplamayı görür ve onaylar  
+- Şeffaf ve kayıtlıdır
 
 ---
 
