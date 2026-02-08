@@ -19,6 +19,14 @@ aynı sadeliği sunar.
 
 ---
 
+## Nasıl çalışır?
+
+1. Organizasyonu oluşturun ve katılımcılar siparişlerini girsin  
+2. Marketçi alışverişi yapıp fiş/faturayı sisteme eklesin  
+3. Plannio kişi başı ödemeyi adil şekilde hesaplasın
+
+---
+
 ## Neden Plannio?
 
 - Sade ve öğrenmesi kolay arayüz  
