@@ -18,9 +18,9 @@ in a clear and simple way.
 
 ## How does it work?
 
-1. Create an organization and let participants submit their orders  
-2. The organizer completes the shopping and enters the receipt details  
-3. Plannio calculates a fair per-person settlement
+1. Create an organization and collect orders from participants  
+2. One person completes the shopping and uploads the receipt  
+3. Plannio fairly splits the total cost among participants
 
 ---
 
@@ -40,6 +40,7 @@ Selected applicants will receive an invitation link to join the test.
 
 🔐 [Privacy Policy](privacy-en.html)  
 📄 [Terms of Service](terms-en.html)
+
 
 
 
