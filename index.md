@@ -29,6 +29,19 @@ Plannio, planlamayı zorlaştıran detayları ortadan kaldırmayı amaçlar.
 
 ---
 
+## Test sürecine katılmak ister misiniz?
+
+Plannio şu anda internal test aşamasındadır.  
+Test sürecine katılmak isteyen kullanıcılar,
+**ad ve soyad bilgileriyle birlikte**
+aşağıdaki e-posta adresine mail gönderebilirler.
+
+📧 **mehmetyalcinozan@gmail.com**
+
+Uygun görülen başvurulara test davet linki ile geri dönüş yapılacaktır.
+
+---
+
 📱 **Yakında Google Play’de**
 
 🔐 [Gizlilik Politikası](privacy.html)  
