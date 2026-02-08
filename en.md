@@ -16,10 +16,23 @@ in a clear and simple way.
 
 ---
 
+## Would you like to join the testing program?
+
+Plannio is currently in the internal testing phase.  
+If you would like to participate, please send an email with
+your **full name** to the address below.
+
+📧 **mehmetyalcinozan@gmail.com**
+
+Selected applicants will receive an invitation link to join the test.
+
+---
+
 📱 **Coming soon on Google Play**
 
 🔐 [Privacy Policy](privacy-en.html)  
 📄 [Terms of Service](terms-en.html)
+
 
 
 
