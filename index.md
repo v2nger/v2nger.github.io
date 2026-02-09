@@ -1,55 +1,83 @@
+# Plannio
 
-Plannio, arkadaşlarınız ve ailenizle yaptığınız buluşmaları daha kolay
-planlamanız için geliştirilmiş bir mobil uygulamadır.
-Ortak listeler oluşturmanızı, kimin ne istediğini ve harcamaların
-nasıl paylaşıldığını net bir şekilde görmenizi sağlar.
+**Toplu alışverişlerin hesabını kolayca yönetin.**
 
----
+Plannio, bir kişinin yaptığı toplu alışverişin
+gruptaki katılımcılar arasında
+adil ve anlaşılır şekilde paylaşılmasını sağlayan
+bir mobil uygulamadır.
 
-## Plannio ne işe yarar?
-
-- Organizasyonlar için ortak listeler oluşturmanızı sağlar  
-- Her katılımcının ne istediğini net belirleyerek karışıklığı önler  
-- Tamamlananları işaretleyerek süreci takip etmenizi kolaylaştırır  
-- Harcamaları şeffaf ve anlaşılır hâle getirir  
-
-Plannio belirli bir etkinlik türüne bağlı değildir.
-Aile buluşmaları, arkadaş toplantıları ve günlük planlar için
-aynı sadeliği sunar.
+Siparişleri toplayın, alışverişi yapın,
+fişi girin — kişi başı ödemeyi Plannio hesaplasın.
 
 ---
 
 ## Nasıl çalışır?
 
 1. Organizasyonu oluşturun ve katılımcılar siparişlerini girsin  
-2. Marketçi alışverişi yapıp fiş/faturayı sisteme eklesin  
-3. Plannio kişi başı ödemeyi adil şekilde hesaplasın
+2. Organizatör alışverişi yapıp fiş veya fatura tutarlarını sisteme eklesin  
+3. Plannio kişi başı ödeme tutarlarını otomatik olarak hesaplasın  
+
+Tüm katılımcılar hesaplamayı görür
+ve borç/alacak durumu karşılıklı onaylanır.
 
 ---
 
 ## Neden Plannio?
 
-- Tek kişinin üstüne kalan hesap yükünü ortadan kaldırır  
-- Tartışmayı değil, sonucu gösterir  
-- Herkes aynı hesaplamayı görür ve onaylar  
-- Şeffaf ve kayıtlıdır
+Toplu alışverişlerde
+hesaplama süreci çoğu zaman karmaşık ve yorucudur.
+
+Plannio:
+
+- Tek kişinin yaptığı harcamanın adil paylaşılmasını sağlar  
+- Hesaplamayı şeffaf ve herkes için görünür hale getirir  
+- Ödeme sürecini düzenli ve kayıtlı tutar  
+- Grup içi karışıklıkları azaltır  
+
+Basit, anlaşılır ve güvenilir bir çözüm sunar.
 
 ---
 
-## Test sürecine katılmak ister misiniz?
+## Akıllı destek (Premium)
 
-Plannio şu anda internal test aşamasındadır.  
+Plannio Premium, siparişleri ve harcamaları analiz ederek
+daha dengeli ödeme senaryoları oluşturmanıza yardımcı olur.
+
+Premium özellikler:
+
+- AI destekli sipariş ve harcama analizi  
+- Alternatif paylaşım senaryoları  
+- Organizasyon özeti ve ödeme geçmişi  
+- PDF çıktı ve paylaşım seçenekleri  
+
+---
+
+## Kimler için?
+
+- Aile ve arkadaş grupları  
+- Toplu alışverişi tek kişinin yaptığı organizasyonlar  
+- Harcamaları adil ve net şekilde paylaşmak isteyen kullanıcılar  
+
+Plannio, farklı senaryolara uyum sağlayan
+esnek bir ödeme hesaplama aracıdır.
+
+---
+
+## Test sürecine katılın
+
+Plannio şu anda internal test aşamasındadır.
+
 Test sürecine katılmak isteyen kullanıcılar,
 **ad ve soyad bilgileriyle birlikte**
-aşağıdaki e-posta adresine mail gönderebilirler.
+aşağıdaki e-posta adresine mail gönderebilirler:
 
 📧 **mehmetyalcinozan@gmail.com**
 
-Uygun görülen başvurulara test davet linki ile geri dönüş yapılacaktır.
+Uygun görülen başvurulara
+test davet linki ile geri dönüş yapılacaktır.
 
 ---
-
-📱 **Yakında Google Play’de**
 
 🔐 [Gizlilik Politikası](privacy.html)  
 📄 [Kullanım Şartları](terms.html)
